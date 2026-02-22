@@ -1,0 +1,7 @@
+# Nested repo: track caplets as plain files, not as submodule
+caplets/.git/
+
+# OS / editor
+*.swp
+*~
+.DS_Store
